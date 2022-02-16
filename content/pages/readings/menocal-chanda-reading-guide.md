@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Menocal Chanda Reading Guide
 uid: 0f71b872-28f0-8816-ffad-36b9ee45cff3

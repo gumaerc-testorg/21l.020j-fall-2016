@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Misuses of Logic
 uid: 0f5ff7f1-ac4c-87e0-95f6-909a5b8512b4

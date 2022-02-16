@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Chanda Sen Reading Guide
 uid: 5451ed02-b935-4cee-59a4-c015081a1051

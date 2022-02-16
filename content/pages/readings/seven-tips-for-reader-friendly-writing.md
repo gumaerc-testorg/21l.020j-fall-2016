@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Seven Tips for Reader-Friendly Writing
 uid: f2253949-15ba-d49e-0446-95e981588e91

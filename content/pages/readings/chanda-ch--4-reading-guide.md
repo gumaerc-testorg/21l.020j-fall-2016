@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Chanda Ch. 4 Reading Guide
 uid: bbbcc751-87ac-dbb8-7bf9-689a0e6d0d0d

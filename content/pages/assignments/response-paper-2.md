@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: eacca23f-9e90-f709-f038-66a02cefe90b
 title: Response Paper 2
 uid: 6d73e4b0-0e0d-d256-10a4-6d1353c74e0a
