@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 resourcetype: Document
 title: 21L_020Jf16_EffectiveOralPres
 uid: 8c127ccd-e767-e02b-afef-e4a4b8729317

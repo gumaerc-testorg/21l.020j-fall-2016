@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eacca23f-9e90-f709-f038-66a02cefe90b
 resourcetype: Document
 title: MIT21L_020JF16_WorkGroups
 uid: 3087d1fe-2719-7851-2ae4-f6fdc5a08ce3

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eacca23f-9e90-f709-f038-66a02cefe90b
 resourcetype: Document
 title: MIT21L_020JF16_Integrity
 uid: 0c5903b0-e70c-5f90-b711-02275007b6f2
