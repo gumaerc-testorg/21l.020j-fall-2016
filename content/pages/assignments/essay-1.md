@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains assignment guidelines for Essay 1
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

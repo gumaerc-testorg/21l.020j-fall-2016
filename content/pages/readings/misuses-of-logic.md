@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of common misuses of logic with supporting
+  examples.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

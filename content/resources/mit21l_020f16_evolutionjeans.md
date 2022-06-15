@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/3df5fb482898c4ea81ecdb913a7f04ce_MIT21L_020F16_EvolutionJeans.pdf
+file: /courses/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/3df5fb482898c4ea81ecdb913a7f04ce_MIT21L_020F16_EvolutionJeans.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

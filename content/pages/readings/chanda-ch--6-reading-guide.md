@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the reading guide for Chanda Ch. 6
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

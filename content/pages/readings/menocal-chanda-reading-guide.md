@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the reading guide for the Menocal Chanda readings
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details about course readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -59,7 +60,7 @@ _Listen to the first 30 minutes of:_
 
 Sen, Amartya. "[The Idea of Identity](https://www.youtube.com/watch?v=8bFVYdoPfrc)." Boston University Pardee Distinguished Lecture. November 27, 2001. YouTube.
 
-[Chanda Sen Reading Guide]({{< baseurl >}}/pages/readings/chanda-sen-reading-guide)
+{{% resource_link 5451ed02-b935-4cee-59a4-c015081a1051 "Chanda Sen Reading Guide" %}}
 
 
 {{< tdclose >}}
@@ -125,7 +126,7 @@ Globalization: cultural mis-readings
 
 Menocal, Maria Rosa. _The Ornament of the World: How Muslims, Jews and Christians Created a Culture of Tolerance in Medieval Spain_. Reprint edition. Back Bay Books, 2003, pp. 32–47, 72–87, 107–111, 126–129. ISBN: 9780316168717.
 
-[Menocal Chanda Reading Guide]({{< baseurl >}}/pages/readings/menocal-chanda-reading-guide)
+{{% resource_link 0f71b872-28f0-8816-ffad-36b9ee45cff3 "Menocal Chanda Reading Guide" %}}
 
 
 {{< tdclose >}}
@@ -149,7 +150,7 @@ Wood, Graeme. "[What ISIS Really Wants](https://www.theatlantic.com/magazine/arc
 
 \[NC\] Ch. 4.
 
-[Chanda Ch. 4 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-4-reading-guide)
+{{% resource_link bbbcc751-87ac-dbb8-7bf9-689a0e6d0d0d "Chanda Ch. 4 Reading Guide" %}}
 
 
 {{< tdclose >}}
@@ -173,13 +174,13 @@ Elements of good writing: Joaquín
 
 \[NC\] pp. 145–148, 160–170, 175–177, 185–194.
 
-[Misuses of Logic]({{< baseurl >}}/pages/readings/misuses-of-logic)
+{{% resource_link 0f5ff7f1-ac4c-87e0-95f6-909a5b8512b4 "Misuses of Logic" %}}
 
-[Seven Tips for Reader-Friendly Writing]({{< baseurl >}}/pages/readings/seven-tips-for-reader-friendly-writing)
+{{% resource_link f2253949-15ba-d49e-0446-95e981588e91 "Seven Tips for Reader-Friendly Writing" %}}
 
-[Chanda Ch. 5 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-5-reading-guide)
+{{% resource_link 4fa4a79c-cdd4-e77f-6554-90259f4a7b51 "Chanda Ch. 5 Reading Guide" %}}
 
-[Chanda Ch. 6 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-6-reading-guide)
+{{% resource_link d8b06e8c-4847-2464-4867-207ff15a6892 "Chanda Ch. 6 Reading Guide" %}}
 
 
 {{< tdclose >}}
@@ -261,7 +262,7 @@ Byrne, David. "[Crossing Music’s Borders In Search of Identity: ‘I Hate Worl
 
 Garofalo, Reebee. "[Whose World, What Beat: The Transnational Music Industry, Identity, and Cultural Imperialism](https://www.jstor.org/stable/43615564?seq=1#page_scan_tab_contents)." _The World of Music_ 35, no. 2 (1993): 16–32.
 
-[Discussion topics for music readings]({{< baseurl >}}/pages/readings/discussion-topics-for-music-readings)
+{{% resource_link ccd558b4-9e5d-2880-2dda-063b460d128f "Discussion topics for music readings" %}}
 
 
 {{< tdclose >}}
@@ -367,9 +368,9 @@ Short presentation on memos
 
 Patton, Cindy. _Globalizing Aids_. University of Minnesota Press, 2002, pp. ix–xxvii, 27–34, 46–50, 73–81.
 
-[Chanda Ch. 7 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-7-reading-guide)
+{{% resource_link f7c4cade-01a8-58eb-1738-65853313e92e "Chanda Ch. 7 Reading Guide" %}}
 
-[The Craft of Effective Oral Presentations (PDF)]({{< baseurl >}}/resources/21l_020jf16_effectiveoralpres). Courtesy of Jane Dunphy. Used with permission.
+{{% resource_link 8c127ccd-e767-e02b-afef-e4a4b8729317 "The Craft of Effective Oral Presentations (PDF)" %}}. Courtesy of Jane Dunphy. Used with permission.
 
 
 {{< tdclose >}}
@@ -465,7 +466,7 @@ Discuss "The Colombian Exchange" and Chanda Ch. 3
 
 \[NC\] Ch. 2–3, 6.
 
-[Chanda Ch. 3 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-3-reading-guide)
+{{% resource_link f543b927-ee1e-f5f2-dd37-15a24322aa70 "Chanda Ch. 3 Reading Guide" %}}
 
 _Watch:_
 
@@ -489,7 +490,7 @@ Calmes, Jackie. "[Trans-Pacific Partnership Is Reached, but Faces Scrutiny in Co
 
 \[NC\] Ch. 8.
 
-[Chanda Ch. 8 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-8-reading-guide)
+{{% resource_link 22265e1e-81fb-b3c5-badc-1921dee5cf48 "Chanda Ch. 8 Reading Guide" %}}
 
 
 {{< tdclose >}}

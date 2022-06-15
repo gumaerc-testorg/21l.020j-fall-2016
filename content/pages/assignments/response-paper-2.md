@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains assignment guidelines for the second Response Paper
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains discussion topics for the music readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

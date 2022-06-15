@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details about the course assignments and due dates.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -37,7 +38,7 @@ Globalization: cultural mis-readings
 
 {{< tdclose >}}
 {{< tdopen >}}
-Begin working on [Response Paper 1]({{< baseurl >}}/pages/assignments/response-paper-1)
+Begin working on {{% resource_link 3648591d-6ebb-1e5a-60c8-72a60f90c686 "Response Paper 1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Elements of good writing: Joaquín
 
 {{< tdclose >}}
 {{< tdopen >}}
-Begin working on [Essay 1]({{< baseurl >}}/pages/assignments/essay-1)
+Begin working on {{% resource_link 13fa5569-abec-7c09-fa66-ea9b1262c982 "Essay 1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +184,7 @@ Divide into presentation groups
 
 {{< tdclose >}}
 {{< tdopen >}}
-Begin working on [Response Paper 2]({{< baseurl >}}/pages/assignments/response-paper-2)
+Begin working on {{% resource_link 6d73e4b0-0e0d-d256-10a4-6d1353c74e0a "Response Paper 2" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,9 +244,9 @@ Work on team presentations
 
 Presentation memo due
 
-[Presentation Memo Template (PDF)]({{< baseurl >}}/resources/mit21l_020jf16_memotemp)
+{{% resource_link d2f39749-5e9b-089a-b980-940d9f36aa00 "Presentation Memo Template (PDF)" %}}
 
-Begin working on first version of [Essay 2]({{< baseurl >}}/pages/assignments/essay-2)
+Begin working on first version of {{% resource_link 469e2c7f-c807-3158-9c9b-93725a6ac43d "Essay 2" %}}
 
 
 {{< tdclose >}}
@@ -311,14 +312,14 @@ Final version of Essay 2 due
 Resources for Assignments
 -------------------------
 
-[Effective Impromptu Speaking (PDF)]({{< baseurl >}}/resources/mit21l_020jf16_impromptu)
+{{% resource_link 9bd0f2a0-474b-1dc4-8cd2-451b6070b46d "Effective Impromptu Speaking (PDF)" %}}
 
-[Intellectual Integrity and Defensive Documentation (PDF)]({{< baseurl >}}/resources/mit21l_020jf16_integrity)
+{{% resource_link 0c5903b0-e70c-5f90-b711-02275007b6f2 "Intellectual Integrity and Defensive Documentation (PDF)" %}}
 
-[Working Effectively in Groups (PDF)]({{< baseurl >}}/resources/mit21l_020jf16_workgroups)
+{{% resource_link 3087d1fe-2719-7851-2ae4-f6fdc5a08ce3 "Working Effectively in Groups (PDF)" %}}
 
-[Fear of Writing (PDF)]({{< baseurl >}}/resources/mit21l_020jf16_fearwriting)
+{{% resource_link 878b538b-2d4c-a614-54bb-551da6382043 "Fear of Writing (PDF)" %}}
 
 _Example student work_
 
-[The Evolution of Jeans and Its Impact on Global Society (PDF - 2.3MB)]({{< baseurl >}}/resources/mit21l_020f16_evolutionjeans) - Courtesy of Yazan Baara, Rozanne Mungai, and Crystal Pham. Used with permission.
+{{% resource_link 3df5fb48-2898-c4ea-81ec-db913a7f04ce "The Evolution of Jeans and Its Impact on Global Society (PDF - 2.3MB)" %}} - Courtesy of Yazan Baara, Rozanne Mungai, and Crystal Pham. Used with permission.
