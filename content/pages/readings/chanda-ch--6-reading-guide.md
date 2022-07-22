@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the reading guide for Chanda Ch. 6
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Chanda Ch. 6 Reading Guide
 uid: d8b06e8c-4847-2464-4867-207ff15a6892

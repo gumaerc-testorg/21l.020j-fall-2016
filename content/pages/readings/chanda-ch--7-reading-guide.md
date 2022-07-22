@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the reading guide for Chanda Ch. 7
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Chanda Ch. 7 Reading Guide
 uid: f7c4cade-01a8-58eb-1738-65853313e92e

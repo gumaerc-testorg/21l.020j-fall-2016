@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains details about the course description, course requirements,
+  and grading breakdown.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 898aff8e-35c4-5082-f70d-7523519f72ab
 ---
@@ -34,7 +38,7 @@ You are expected to do the following:
 1.  Attend all classes since class discussion is central to the course. Unexcused absences will automatically lower your grade.
 2.  Prepare for class by reading, viewing and listening to the assigned material. Well-prepared students are crucial for the success of the class.
 3.  View the films listed on the syllabus; they are an integral part of the course. They will be streamed and you will be able to view them on your own computers.
-4.  Submit short response papers and longer essays as indicated on the syllabus. Due dates are indicated in the [Calendar]({{< baseurl >}}/pages/calendar) and [Assignments]({{< baseurl >}}/pages/assignments) sections. Unless you have a convincing excuse, any late paper will lower your grade.
+4.  Submit short response papers and longer essays as indicated on the syllabus. Due dates are indicated in the {{% resource_link cefcbbfd-62cc-2e72-499f-af110bf0bd23 "Calendar" %}} and {{% resource_link eacca23f-9e90-f709-f038-66a02cefe90b "Assignments" %}} sections. Unless you have a convincing excuse, any late paper will lower your grade.
 5.  Work in groups on a team-based project for the second half of the semester. We will distribute guidelines for the team presentation by the third week of the semester.
 6.  Please do _not_ use laptops, tablets, netbooks or smart phones in class. Our course is a semester long conversation and, like any sustained exchange, benefits greatly from our undivided attention. We will use technology extensively throughout the semester; however, as far as your note-taking is concerned, I ask that you use pen and paper.
 7.  Understand and practice academic integrity.

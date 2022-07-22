@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains assignment guidelines for Essay 1
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: eacca23f-9e90-f709-f038-66a02cefe90b
 title: Essay 1
 uid: 13fa5569-abec-7c09-fa66-ea9b1262c982

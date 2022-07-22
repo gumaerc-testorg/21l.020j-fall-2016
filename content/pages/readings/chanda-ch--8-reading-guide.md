@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the reading guide for Chanda Ch. 8
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Chanda Ch. 8 Reading Guide
 uid: 22265e1e-81fb-b3c5-badc-1921dee5cf48

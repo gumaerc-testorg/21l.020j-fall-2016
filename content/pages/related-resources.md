@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains further readings, audio and visual materials, and
+  further guidelines on assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 83c4ada5-1f3a-a4d7-6d58-6ce704b432ce
 ---

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains discussion topics for the music readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c983d95f-b178-5e19-3321-3acb164435d3
 title: Discussion Topics for Music Readings
 uid: ccd558b4-9e5d-2880-2dda-063b460d128f
