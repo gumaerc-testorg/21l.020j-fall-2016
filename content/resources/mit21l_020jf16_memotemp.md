@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/d2f397495e9b089ab980940d9f36aa00_MIT21L_020JF16_MemoTemp.pdf
+file: /ol-ocw-studio-app/courses/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/d2f397495e9b089ab980940d9f36aa00_MIT21L_020JF16_MemoTemp.pdf
 file_size: 159540
 file_type: application/pdf
 learning_resource_types:
