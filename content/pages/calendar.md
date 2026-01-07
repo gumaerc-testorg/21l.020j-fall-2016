@@ -36,7 +36,7 @@ What do we mean by "globalization"?
 
 _Listen to:_
 
-Adichie, Chimamanda Ngozi. "{{% resource_link "cd565c37-a078-4272-b0c6-e7d8b3120a63" "The Danger of a Single Story" %}}." TEDGlobal.
+Adichie, Chimamanda Ngozi. "[The Danger of a Single Story](http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)." TEDGlobal.
 
 
 {{< tdclose >}}
@@ -134,7 +134,7 @@ Discuss Chanda Ch. 5–6 and "Gunga Din"
 
 _Listen to:_
 
-Connolly, Sarah. "{{% resource_link "5c8c7ccf-7a9e-4b32-89c6-8f4a802a26d4" "Rule Brittania" %}}" (with {{% resource_link "13d01015-6930-4d18-a1b0-657d3fb3e8b5" "lyric annotations" %}}). YouTube.
+Connolly, Sarah. "[Rule Brittania](https://www.youtube.com/watch?v=rB5Nbp_gmgQ)" (with [lyric annotations](https://www.youtube.com/watch?v=yHNfvJc99YY)). YouTube.
 
 
 {{< tdclose >}}
@@ -184,7 +184,7 @@ Reading Quiz 1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecture on authenticy and music by {{% resource_link "7f358c51-fbd4-4a40-a946-38573a5c0784" "Prof. Patricia Tang" %}}
+Guest lecture on authenticy and music by [Prof. Patricia Tang](http://mta.mit.edu/person/patricia-tang)
 {{< tdclose >}}
 {{< tdopen >}}
 Group project on world music genre

@@ -121,6 +121,6 @@ Required Texts
 
 The following books should be purchased:
 
-Otsuka, Julie. _The Buddha in the Attic_. Anchor Books, 2012. ISBN: 9780307744425. \[Preview with {{% resource_link "4dec7787-81f6-40a8-aefe-b3c56f3dd05f" "Google Books" %}}\]
+Otsuka, Julie. _The Buddha in the Attic_. Anchor Books, 2012. ISBN: 9780307744425. \[Preview with [Google Books](http://books.google.com/books?id=V04NOSsnDA0C&pg=PAfrontcover)\]
 
-Indiana, Rita. _Papi: A Novel_. Translated by Achy Obejas. University of Chicago Press, 2016. ISBN: 9780226244891. Preview with \[{{% resource_link "bd31c2e1-5c52-42d4-af9a-fae8a063e696" "Google Books" %}}\]
+Indiana, Rita. _Papi: A Novel_. Translated by Achy Obejas. University of Chicago Press, 2016. ISBN: 9780226244891. Preview with \[[Google Books](https://books.google.com/books?id=1AuZCwAAQBAJ&lpg=PP1&dq=rita%20indiana%20papi&pg=PP1#v=onepage&q&f=false)\]
