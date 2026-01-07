@@ -8,11 +8,11 @@ ocw_type: CourseSection
 title: Readings
 uid: c983d95f-b178-5e19-3321-3acb164435d3
 ---
-\[NC\] = Chanda, Nayan. *Bound Together: How Traders, Preachers, Adventurers, and Warriors Shaped Globalization*. Yale University Press, 2008. ISBN: 9780300136234. \[Preview with {{% resource_link "8b5c98bc-d75f-42c1-bf34-acaa2242e0a1" "Google Books" %}}\]
+\[NC\] = Chanda, Nayan. *Bound Together: How Traders, Preachers, Adventurers, and Warriors Shaped Globalization*. Yale University Press, 2008. ISBN: 9780300136234. \[Preview with [Google Books](https://books.google.com/books?id=rxMz-Ro6CjQC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
-\[RI\] = Indiana, Rita. *Papi: A Novel*. Translated by Achy Obejas. University of Chicago Press, 2016. ISBN: 9780226244891. Preview with \[{{% resource_link "bd31c2e1-5c52-42d4-af9a-fae8a063e696" "Google Books" %}}\]
+\[RI\] = Indiana, Rita. *Papi: A Novel*. Translated by Achy Obejas. University of Chicago Press, 2016. ISBN: 9780226244891. Preview with \[[Google Books](https://books.google.com/books?id=1AuZCwAAQBAJ&lpg=PP1&dq=rita%20indiana%20papi&pg=PP1#v=onepage&q&f=false)\]
 
-\[JO\] = Otsuka, Julie. *The Buddha in the Attic*. Anchor Books, 2012. ISBN: 9780307744425. \[Preview with {{% resource_link "98c9537f-46bf-475a-9b8f-febd1ffa8fb6" "Google Books" %}}\]
+\[JO\] = Otsuka, Julie. *The Buddha in the Attic*. Anchor Books, 2012. ISBN: 9780307744425. \[Preview with [Google Books](https://books.google.com/books?id=sLS-LcfnV5sC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
 \[BE\] = Ehrenreich, Barbara, and Arlie Russell Hochschild, eds. *Global Woman: Nannies, Maids, and Sex Workers in the New Economy*. Holt Paperbacks, 2004. ISBN: 9780805075090.
 
@@ -32,17 +32,17 @@ What do we mean by "globalization"?
 
 *Listen to:*
 
-Adichie, Chimamanda Ngozi. "{{% resource_link "cd565c37-a078-4272-b0c6-e7d8b3120a63" "The Danger of a Single Story" %}}." TEDGlobal.
+Adichie, Chimamanda Ngozi. "[The Danger of a Single Story](http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)." TEDGlobal.
 
 {{< tdclose >}}{{< tdopen >}}
 
 \[NC\] Introduction & Ch. 1.
 
-Steger, Manfred. "Map 1. Early human migrations." In *Globalization: A Very Short Introduction*. 2nd edition. Oxford University Press, 2009. ISBN: 9780199552269. \[Preview with {{% resource_link "47cf94e1-b7e6-4f5e-81f9-ab8cb47450c3" "Google Books" %}}\]
+Steger, Manfred. "Map 1. Early human migrations." In *Globalization: A Very Short Introduction*. 2nd edition. Oxford University Press, 2009. ISBN: 9780199552269. \[Preview with [Google Books](https://books.google.com/books?id=4X6Z3bQB2S8C&lpg=PP1&dq=steger%20globalization&pg=PA21#v=onepage&q&f=false)\]
 
 *Listen to the first 30 minutes of:*
 
-Sen, Amartya. "{{% resource_link "103db9b8-fc53-4f7e-9ca3-2c2fea8f1dbd" "The Idea of Identity" %}}." Boston University Pardee Distinguished Lecture. November 27, 2001. YouTube.
+Sen, Amartya. "[The Idea of Identity](https://www.youtube.com/watch?v=8bFVYdoPfrc)." Boston University Pardee Distinguished Lecture. November 27, 2001. YouTube.
 
 {{% resource_link "5451ed02-b935-4cee-59a4-c015081a1051" "Chanda Sen Reading Guide" %}}
 
@@ -52,9 +52,9 @@ Sen, Amartya. "{{% resource_link "103db9b8-fc53-4f7e-9ca3-2c2fea8f1dbd" "The Ide
 Discuss Chanda and Sen: the "big picture" of globalization
 {{< tdclose >}}{{< tdopen >}}
 
-Adichie, Chimamanda. "{{% resource_link "66c51013-dae9-4f4c-aa48-d8c911bd0160" "Quality Street" %}}." *Guernica*. February 1, 2010.
+Adichie, Chimamanda. "[Quality Street](https://www.guernicamag.com/quality_street/)." *Guernica*. February 1, 2010.
 
-Jarrar, Randa. "{{% resource_link "4e53342a-f0fe-4877-9a86-9c289accf32d" "You Are a 14-Year-Old Arab Chick Who Just Moved to Texas" %}}." *Eyeshot*.
+Jarrar, Randa. "[You Are a 14-Year-Old Arab Chick Who Just Moved to Texas](http://www.eyeshot.net/jarrar1.html)." *Eyeshot*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -66,7 +66,7 @@ Globalization at the micro level: the family
 
 {{< tdclose >}}{{< tdopen >}}
 
-Lahiri, Jhumpa. *Interpreter of Maladies*. Mariner Books, 1999, pp. 43–69. ISBN: 9780395927205. \[Preview with {{% resource_link "3c87ae4b-cbdb-4822-a90a-bdc41bebd8ad" "Google Books" %}}\]
+Lahiri, Jhumpa. *Interpreter of Maladies*. Mariner Books, 1999, pp. 43–69. ISBN: 9780395927205. \[Preview with [Google Books](https://books.google.com/books?id=77zjnZnigdsC&lpg=PP1&dq=interpreter%20of%20maladies&pg=PA43#v=onepage&q&f=false)\]
 
 Alarcón, Daniel. "Third Avenue Suicide." In *War by Candlelight*. Harper Perennial, 2006. ISBN: 9780060594800.
 
@@ -90,11 +90,11 @@ Menocal, Maria Rosa. *The Ornament of the World: How Muslims, Jews and Christian
 Discuss Menocal
 {{< tdclose >}}{{< tdopen >}}
 
-Ahmed, Akbar. "{{% resource_link "45267624-c263-464b-8416-5a9261d1fdda" "What Andalusia Can Teach Us Today About Muslims and Non-Muslims Living Together" %}}." Huffington Post. April 17, 2015.
+Ahmed, Akbar. "[What Andalusia Can Teach Us Today About Muslims and Non-Muslims Living Together](http://www.huffingtonpost.com/akbar-ahmed/andalusia-muslims-non-muslims-living_b_7088320.html)." Huffington Post. April 17, 2015.
 
-Wood, Graeme. "{{% resource_link "c27b7bc3-d95e-4196-8df8-734d4bd137a1" "What ISIS Really Wants" %}}." *The Atlantic* 315, no. 2 (2015): 78-94.
+Wood, Graeme. "[What ISIS Really Wants](https://www.theatlantic.com/magazine/archive/2015/03/what-isis-really-wants/384980/)." *The Atlantic* 315, no. 2 (2015): 78-94.
 
-"{{% resource_link "cbbe2917-c04f-4274-b864-d2f9f5b7d957" "Sunnis and Shia: Islam's Ancient Schism" %}}." BBC News. January 4, 2016.
+"[Sunnis and Shia: Islam's Ancient Schism](http://www.bbc.com/news/world-middle-east-16047709)." BBC News. January 4, 2016.
 
 \[NC\] Ch. 4.
 
@@ -128,7 +128,7 @@ Discuss Chanda Ch.5–6 and "Gunga Din"
 
 *Listen to:*
 
-Connolly, Sarah. "{{% resource_link "5c8c7ccf-7a9e-4b32-89c6-8f4a802a26d4" "Rule Brittania" %}}" (with {{% resource_link "13d01015-6930-4d18-a1b0-657d3fb3e8b5" "lyric annotations" %}}). YouTube.
+Connolly, Sarah. "[Rule Brittania](https://www.youtube.com/watch?v=rB5Nbp_gmgQ)" (with [lyric annotations](https://www.youtube.com/watch?v=yHNfvJc99YY)). YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Chamoiseau, Patrick. "The Old Man Slave and the Mastiff." In *The Art of the Story: An International Anthology of Contemporary Short Stories*. Edited by Daniel Halpern. Penguin Books, 2000. ISBN: 9780140296389.
@@ -150,19 +150,19 @@ Discuss *Papi*
 Discuss *Papi*
 {{< tdclose >}}{{< tdopen >}}
 
-Taylor, Timothy D. "Chapter 5: Strategic Inauthenticity." In *Global Pop: World Music, World Markets*. Routledge, 1997. ISBN: 9780415918725. \[Preview with {{% resource_link "30e01037-ca2b-41ee-9d6a-0b98e833b1d3" "Google Books" %}}\]
+Taylor, Timothy D. "Chapter 5: Strategic Inauthenticity." In *Global Pop: World Music, World Markets*. Routledge, 1997. ISBN: 9780415918725. \[Preview with [Google Books](https://books.google.com/books?id=DSFHBAAAQBAJ&lpg=PA1&dq=timothy%20taylor%20global%20pop&pg=PT223#v=onepage&q&f=false)\]
 
 Tang, Patricia J. "Negotiating Performance in Senegalese Popular Music: Sound, Image, and the Ethnomusicologist as Exoticized 'Other'." *Journal of Popular Music Studies*, 17 (3), pp. 275–300.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by {{% resource_link "7f358c51-fbd4-4a40-a946-38573a5c0784" "Prof. Patricia Tang" %}} on authenticy and music
+Guest lecture by [Prof. Patricia Tang](http://mta.mit.edu/person/patricia-tang) on authenticy and music
 {{< tdclose >}}{{< tdopen >}}
 
-Byrne, David. "{{% resource_link "cf6b4890-5809-41ec-a66a-400122155416" "Crossing Music’s Borders In Search of Identity: ‘I Hate World Music’" %}}." *The New York Times*. October 3, 1999.
+Byrne, David. "[Crossing Music’s Borders In Search of Identity: ‘I Hate World Music’](https://www.nytimes.com/1999/10/03/arts/music-crossing-musics-borders-in-search-of-identity-i-hate-world-music.html)." *The New York Times*. October 3, 1999.
 
-Garofalo, Reebee. "{{% resource_link "e77d40a3-4135-40b9-9c50-d07378b6c825" "Whose World, What Beat: The Transnational Music Industry, Identity, and Cultural Imperialism" %}}." *The World of Music* 35, no. 2 (1993): 16–32.
+Garofalo, Reebee. "[Whose World, What Beat: The Transnational Music Industry, Identity, and Cultural Imperialism](https://www.jstor.org/stable/43615564?seq=1#page_scan_tab_contents)." *The World of Music* 35, no. 2 (1993): 16–32.
 
 {{% resource_link "ccd558b4-9e5d-2880-2dda-063b460d128f" "Discussion topics for music readings" %}}
 
@@ -186,7 +186,7 @@ No assigned readings.
 
 *Watch:*
 
-{{% resource_link "6bd2d6ae-d9bf-460e-846e-9022bb38832d" "Seeking Asian Female" %}}. 2012.
+[Seeking Asian Female](http://www.imdb.com/title/tt2320029/). 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -236,13 +236,13 @@ Discuss Chanda and Patton
 
 {{< tdclose >}}{{< tdopen >}}
 
-Undheim, Trond. "{{% resource_link "177f2b7e-c6bd-4c3c-93dc-9e0f2bb21fb0" "Ebola: The Dark Side of Globalization" %}}." FORTUNE. October 20, 2014.
+Undheim, Trond. "[Ebola: The Dark Side of Globalization](http://fortune.com/2014/10/20/why-ebola-mirrors-the-dark-side-of-globalization/)." FORTUNE. October 20, 2014.
 
-Farmer, Paul. "{{% resource_link "5aca6ad1-1058-4e12-92cf-748b9d441fd2" "Diary" %}}." *London Review of Books* 36 no. 20 (2014): 38-39
+Farmer, Paul. "[Diary](https://www.lrb.co.uk/v36/n20/paul-farmer/diary)." *London Review of Books* 36 no. 20 (2014): 38-39
 
 *Watch:*
 
-{{% resource_link "274bb54d-65be-47ff-afcc-c80a4f7b16e6" "Contagion" %}}. 2011.
+[Contagion](http://www.imdb.com/title/tt1598778/?ref_=nv_sr_1). 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -254,11 +254,11 @@ Work on team presentations
 
 {{< tdclose >}}{{< tdopen >}}
 
-Farmer, Paul, David Walton, and Laura Tarter. "{{% resource_link "f0601f65-6f52-4928-a69e-a0150c20f51f" "Infections and Inequalities" %}}." *Global Change and Human Health* 1, no. 2 (2000): 94-109.
+Farmer, Paul, David Walton, and Laura Tarter. "[Infections and Inequalities](http://link.springer.com/article/10.1023/A:1010088804348)." *Global Change and Human Health* 1, no. 2 (2000): 94-109.
 
-Parsons, Marilyn. "{{% resource_link "8edfecd6-98e5-4f81-824e-7837a4692379" "We've Neglected Diseases Like the Zika Virus for Too Long" %}}." TIME. January 26, 2016.
+Parsons, Marilyn. "[We've Neglected Diseases Like the Zika Virus for Too Long](http://time.com/4193072/zika-virus-neglected-disease/)." TIME. January 26, 2016.
 
-Alter, Charlotte. "{{% resource_link "b8debf49-60fa-451f-aa14-7122aafb668a" "Why Latin American Women Can't Follow the Zika Advice to Avoid Pregnancy" %}}." TIME. January 28, 2016.
+Alter, Charlotte. "[Why Latin American Women Can't Follow the Zika Advice to Avoid Pregnancy](http://time.com/4197318/zika-virus-latin-america-avoid-pregnancy/)." TIME. January 28, 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -270,7 +270,7 @@ Presentation on oral presentations
 
 {{< tdclose >}}{{< tdopen >}}
 
-Earle, Rebecca. "The Columbian Exchange." In *The Oxford Handbook of Food History*. Edited by Jeffrey M. Pilcher. Oxford University Press, 2012. ISBN: 9780199729937. \[Preview with {{% resource_link "a2854ad0-a421-435a-895b-86ed196387d9" "Google Books" %}}\]
+Earle, Rebecca. "The Columbian Exchange." In *The Oxford Handbook of Food History*. Edited by Jeffrey M. Pilcher. Oxford University Press, 2012. ISBN: 9780199729937. \[Preview with [Google Books](https://books.google.com/books?id=Kb2o-eE0huMC&lpg=PP1&dq=the%20oxford%20handbook%20of%20food%20history&pg=PA341#v=onepage&q&f=false)\]
 
 \[NC\] pp. 82–93.
 
@@ -286,7 +286,7 @@ Discuss "The Colombian Exchange" and Chanda Ch. 3
 
 *Watch:*
 
-{{% resource_link "d45861ea-16c7-4247-b241-a7d0c117ab5f" "No Logo" %}}. 2003.
+[No Logo](https://thoughtmaybe.com/no-logo/). 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -294,7 +294,7 @@ Discuss "The Colombian Exchange" and Chanda Ch. 3
 Discuss Chanda and "No Logo"
 {{< tdclose >}}{{< tdopen >}}
 
-Calmes, Jackie. "{{% resource_link "c8c5304d-1e0d-46bb-b826-5b513ff4b298" "Trans-Pacific Partnership Is Reached, but Faces Scrutiny in Congress" %}}." *The New York Times*. October 5, 2015.
+Calmes, Jackie. "[Trans-Pacific Partnership Is Reached, but Faces Scrutiny in Congress](https://nyti.ms/2jS8WZP)." *The New York Times*. October 5, 2015.
 
 \[NC\] Ch. 8.
 
